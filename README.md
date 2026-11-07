@@ -1,4 +1,4 @@
-# FocalLaw & FocalJudge
+# To Judge or Not to Judge: Can Large Language Models Leverage the Dispute Focus in Legal Judgment?
 
 Code and dataset for **To Judge or Not to Judge: Can Large Language Models Leverage the Dispute Focus in Legal Judgment?** (ACL 2026).
 
