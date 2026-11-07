@@ -1,0 +1,18 @@
+{
+  "pre_judgment": {
+    "module": "experiments.pre_judgment",
+    "class": "Experiment"
+  },
+  "fact_generation": {
+    "module": "experiments.fact_generation",
+    "class": "Experiment"
+  },
+  "post_fact_judgment": {
+    "module": "experiments.post_fact_judgment",
+    "class": "Experiment"
+  },
+  "structured_judgment": {
+    "module": "experiments.structured_judgment",
+    "class": "Experiment"
+  }
+}
